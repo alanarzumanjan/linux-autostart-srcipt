@@ -1,1 +1,1 @@
-# linux-autostart-srcipt
+# Linux-autostart-srcipt
